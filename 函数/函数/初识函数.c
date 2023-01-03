@@ -3,6 +3,9 @@
 #include <stdbool.h>
 
 //1. 定义函数
+//int f1(int age, char name [], double a) {
+//	return 1;
+//}
 n0thing_printf(int max) {//2.传参
 	printf("**********");
 	printf("\nhwk\n");
@@ -22,13 +25,14 @@ int sum(int x, int y, int z) {//3. 返回值，规范
 }
 
 bool isBool() {
+	printf("isBool函数被调用");
 	return true;
 }
 
-int main() {
-	n0thing_printf(6);
-	n0thing_printf(7);
-	n0thing_printf(8);
-
-	printf("%d", sum(1,2,3));
-}
+//int main() {
+//	n0thing_printf(6);
+//	n0thing_printf(7);
+//	n0thing_printf(8);
+//
+//	printf("%d", sum(1,2,3));
+//}
