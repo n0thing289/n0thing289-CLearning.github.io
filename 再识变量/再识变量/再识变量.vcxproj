@@ -139,6 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="re2.c" />
+    <ClCompile Include="retest.c" />
     <ClCompile Include="test.c" />
     <ClCompile Include="变量.c" />
   </ItemGroup>
