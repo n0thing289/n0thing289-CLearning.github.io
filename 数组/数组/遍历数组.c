@@ -11,7 +11,7 @@ void main2() {
 		weight[i] = 100 + i;
 	}
 	//Êä³öÊı×é
-	for (int i = 0; i < 5; i++) {
+	for (int i = 0; i < length; i++) {
 		printf("%d\t", weight[i]);
 	}
 }
