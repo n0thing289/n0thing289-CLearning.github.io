@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-void main() {
+void main3() {
 	char str[5] = { 32,33,34,35,127 };
 	unsigned char str2[5] = { -10,'A' };
 	int a[5] = { 'A','B', 1.1f };//自动进行强制转换1.1f -> 1
