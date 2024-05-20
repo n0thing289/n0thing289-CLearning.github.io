@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\复习">
+      <UniqueIdentifier>{f3b7a37a-b94f-4b45-9cad-007a151ea943}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="数组入门.c">
@@ -23,6 +26,27 @@
     </ClCompile>
     <ClCompile Include="数组分类.c">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二维数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="冒泡排序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="选择排序法.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="取地址运算.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="复习之选择排序法.c">
+      <Filter>源文件\复习</Filter>
+    </ClCompile>
+    <ClCompile Include="选择排序算法2.c">
+      <Filter>源文件\复习</Filter>
+    </ClCompile>
+    <ClCompile Include="选择排序法03.c">
+      <Filter>源文件\复习</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

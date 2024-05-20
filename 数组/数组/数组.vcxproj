@@ -139,8 +139,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="二维数组.c" />
+    <ClCompile Include="冒泡排序.c" />
+    <ClCompile Include="取地址运算.c" />
+    <ClCompile Include="复习之选择排序法.c" />
     <ClCompile Include="数组入门.c" />
     <ClCompile Include="数组分类.c" />
+    <ClCompile Include="选择排序法.c" />
+    <ClCompile Include="选择排序法03.c" />
+    <ClCompile Include="选择排序算法2.c" />
     <ClCompile Include="遍历数组.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
